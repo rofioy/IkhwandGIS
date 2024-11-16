@@ -1,0 +1,1 @@
+var json_PemerintahanDesaSambengKulon_16 = {"type":"FeatureCollection","name":"PemerintahanDesaSambengKulon_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Pmrintahan":"Kantor Balai Desa Sambeng Kulon"},"geometry":{"type":"Point","coordinates":[109.303763894274994,-7.399892915671794]}}]}

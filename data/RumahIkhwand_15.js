@@ -1,0 +1,1 @@
+var json_RumahIkhwand_15 = {"type":"FeatureCollection","name":"RumahIkhwand_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","RmhIkhwand":"Rumah Ikhwand"},"geometry":{"type":"Point","coordinates":[109.301544792053733,-7.410111010960535]}}]}
